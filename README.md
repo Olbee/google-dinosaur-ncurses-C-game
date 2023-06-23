@@ -1,11 +1,12 @@
 # google-dinosaur-ncurses-game-on-C
 
-This is my first project on C.
-This is a console game released in December 2021.
+This is my first project in C.
+This is a console game, which was created in December 2021.
 
-Terrible code, even for the first experience.
-But, as for me, a good idea of improvement on the well-known Google Dinosaur Game.
+It has a terrible code, even for a first-time experience.
+However, as for me, it's a good idea of improving the famous Google Dinosaur Game.
 
-All information about the gameplay can be found in the documentation file.
+For detailed information about the gameplay, please refer to the documentation file.
 
-to compile: gcc -std=c11 -Wall -Werror -g    main.c  -lm -o main
+To compile the code, please use the following command:
+gcc -std=c11 -Wall -Werror -g    main.c  -lm -o main
