@@ -1,6 +1,6 @@
 # google-dinosaur-ncurses-game-on-C
 
-This is my first project in C.
+This is my first school project in C.
 This is a console game, which was created in December 2021.
 
 It has a terrible code, even for a first-time experience.
